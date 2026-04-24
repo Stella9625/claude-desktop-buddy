@@ -3,7 +3,7 @@
 #include <M5Unified.h>
 #include <string.h>
 
-extern TFT_eSprite spr;
+extern LGFX_Sprite spr;
 
 namespace penguin {
 
